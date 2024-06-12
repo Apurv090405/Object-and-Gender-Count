@@ -2,6 +2,9 @@
 
 ## Description
 This project is a model designed to predict the color of cars in traffic, count the number of cars in the traffic signal, identify the gender distribution of people in the traffic signal, and predict the number of other vehicles apart from cars.
+![image](https://github.com/Apurv090405/Object-and-Gender-Count/assets/120238040/e06e197f-8c99-4ea2-9765-c83b90ef5bf5)
+
+
 
 ## Problem Statement
 - Predict car color in traffic.
@@ -33,7 +36,7 @@ This project is a model designed to predict the color of cars in traffic, count 
   - Pre-trained face and gender classification models (caffemodels)
 
 ## Project Code
-- The project code is available in the `project_code.py` file.
+- The project code is available in the `app.py` file.
 
 ## Usage
 1. Install the required libraries mentioned in the `requirements.txt`.
